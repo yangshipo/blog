@@ -8,4 +8,4 @@
 4. [技术的重要性](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%8A%80%E6%9C%AF%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7.md) 2024-06-29
 5. [牛逼的同事](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E7%89%9B%E9%80%BC%E7%9A%84%E5%90%8C%E4%BA%8B.md) 2024-07-04
 6. [AI辅助阅读](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/AI%E8%BE%85%E5%8A%A9%E9%98%85%E8%AF%BB.md) 2024-07-06
-7. [值得学习的人](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%80%BC%E5%BE%97%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%BA%BA.md)
+7. [值得学习的人](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%80%BC%E5%BE%97%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%BA%BA.md) 2024-07-11
