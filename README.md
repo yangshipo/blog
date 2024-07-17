@@ -9,4 +9,4 @@
 5. [牛逼的同事](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E7%89%9B%E9%80%BC%E7%9A%84%E5%90%8C%E4%BA%8B.md) 2024-07-04
 6. [AI辅助阅读](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/AI%E8%BE%85%E5%8A%A9%E9%98%85%E8%AF%BB.md) 2024-07-06
 7. [值得学习的人](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%80%BC%E5%BE%97%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%BA%BA.md) 2024-07-11
-8. [AI辅助理解框架](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/AI%E8%BE%85%E5%8A%A9%E7%90%86%E8%A7%A3%E6%A1%86%E6%9E%B6.md)2024-07-17
+8. [AI辅助理解框架](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/AI%E8%BE%85%E5%8A%A9%E7%90%86%E8%A7%A3%E6%A1%86%E6%9E%B6.md) 2024-07-17
