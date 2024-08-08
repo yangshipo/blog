@@ -11,5 +11,4 @@
 
 ## AI代码工具
 
-- TONGYI Lingma
-  - 没有数据安全问题，而且@workspace的功能有效好用。
+- TONGYI Lingma：没有数据安全问题，而且@workspace的功能有效好用。
