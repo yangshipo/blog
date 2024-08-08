@@ -11,4 +11,4 @@
 | 6 | AI辅助阅读 | [AI辅助阅读](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/AI%E8%BE%85%E5%8A%A9%E9%98%85%E8%AF%BB.md) | 2024-07-06 |
 | 7 | 值得学习的人 | [值得学习的人](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%80%BC%E5%BE%97%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%BA%BA.md) | 2024-07-11 |
 | 8 | AI辅助理解框架 | [AI辅助理解框架](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/AI%E8%BE%85%E5%8A%A9%E7%90%86%E8%A7%A3%E6%A1%86%E6%9E%B6.md) | 2024-07-17 |
-| 9 | 护城河思考 | [护城河思考](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%8A%A4%E5%9F%8E%E6%B2%B3.md) | 2024-07-31 |
+| 9 | 护城河思考 | [护城河思考](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%8A%A4%E5%9F%8E%E6%B2%B3%E6%80%9D%E8%80%83.md) | 2024-07-31 |
