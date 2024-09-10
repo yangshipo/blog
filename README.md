@@ -14,3 +14,4 @@
 | 9 | 护城河思考 | [护城河思考](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%8A%A4%E5%9F%8E%E6%B2%B3%E6%80%9D%E8%80%83.md) | 2024-07-31 |
 | 10 | 选择 | [选择](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E9%80%89%E6%8B%A9.md) | 2024-08-8 |
 | 11 | AI在工作中的应用 | [AI在工作中的应用](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/AI%E5%9C%A8%E5%B7%A5%E4%BD%9C%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md) | 2024-08-8 |
+| 12 | 技术价值思考 | [技术价值思考](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%8A%80%E6%9C%AF%E4%BB%B7%E5%80%BC%E6%80%9D%E8%80%83.md) | 2024-08-8 |
