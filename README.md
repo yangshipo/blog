@@ -17,4 +17,4 @@
 | 12 | 技术价值思考 | [技术价值思考](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%8A%80%E6%9C%AF%E4%BB%B7%E5%80%BC%E6%80%9D%E8%80%83.md) | 2024-09-10 |
 | 13 | 技术专家 | [技术专家](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%8A%80%E6%9C%AF%E4%B8%93%E5%AE%B6.md) | 2024-09-16 |
 | 14 | 趋势-阶段思考-1 | [趋势-阶段思考-1](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E8%B6%8B%E5%8A%BF-%E9%98%B6%E6%AE%B5%E6%80%9D%E8%80%83-1.md) | 2024-09-23 |
-| 14 | 段永平语录-1 | [段永平语录-1](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%AE%B5%E6%B0%B8%E5%B9%B3%E8%AF%AD%E5%BD%95-1.md) | 2024-10-01 |
+| 15 | 段永平语录-1 | [段永平语录-1](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%AE%B5%E6%B0%B8%E5%B9%B3%E8%AF%AD%E5%BD%95-1.md) | 2024-10-01 |
