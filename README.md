@@ -19,3 +19,4 @@
 | 14 | 趋势-阶段思考-1 | [趋势-阶段思考-1](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E8%B6%8B%E5%8A%BF-%E9%98%B6%E6%AE%B5%E6%80%9D%E8%80%83-1.md) | 2024-09-23 |
 | 15 | 段永平语录-1 | [段永平语录-1](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%AE%B5%E6%B0%B8%E5%B9%B3%E8%AF%AD%E5%BD%95-1.md) | 2024-10-01 |
 | 16 | 关于学习方法整理 | [关于学习方法整理](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%85%B3%E4%BA%8E%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E6%95%B4%E7%90%86.md) | 2024-10-01 |
+| 17 | 心态 | [心态](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%BF%83%E6%80%81.md) | 2024-10-12 |
