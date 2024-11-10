@@ -22,3 +22,4 @@
 | 17 | 心态 | [心态](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%BF%83%E6%80%81.md) | 2024-10-12 |
 | 18 | NBA球员正负值的思考 | [NBA球员正负值的思考](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/NBA%E7%90%83%E5%91%98%E6%AD%A3%E8%B4%9F%E5%80%BC%E7%9A%84%E6%80%9D%E8%80%83.md) | 2024-10-29 |
 | 19 | 《富兰克林自传》读后感 | [《富兰克林自传》读后感](https://github.com/yangshipo/blog/blob/master/%E3%80%8A%E5%AF%8C%E5%85%B0%E5%85%8B%E6%9E%97%E3%80%8B%E8%AF%BB%E5%90%8E%E6%84%9F-part1.md) | 2024-11-10 |
+| 20 | 赏析 | [赏析](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E8%B5%8F%E6%9E%90.md) | 2024-11-20 |
