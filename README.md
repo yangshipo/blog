@@ -24,3 +24,4 @@
 | 19 | 《富兰克林自传》读后感 | [《富兰克林自传》读后感](https://github.com/yangshipo/blog/blob/master/%E3%80%8A%E5%AF%8C%E5%85%B0%E5%85%8B%E6%9E%97%E3%80%8B%E8%AF%BB%E5%90%8E%E6%84%9F-part1.md) | 2024-11-10 |
 | 20 | 赏析 | [赏析](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E8%B5%8F%E6%9E%90.md) | 2024-11-20 |
 | 21 | 保持理性 | [保持理性](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%BF%9D%E6%8C%81%E7%90%86%E6%80%A7.md) | 2024-11-20 |
+| 22 | 持有主动性 | [持有主动性](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%8C%81%E6%9C%89%E4%B8%BB%E5%8A%A8%E6%80%A7.md) | 2024-11-20 |
