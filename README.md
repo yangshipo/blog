@@ -28,4 +28,5 @@
 | 23 | 成功不是结束 | [成功不是结束](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/SuccessIsNotEnd.md) | 2024-11-17 |
 | 24 | 乐观和悲观 | [乐观和悲观](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%B9%90%E8%A7%82%E5%92%8C%E6%82%B2%E8%A7%82.md) | 2024-11-17 |
 | 25 | 自我心理分析 | [自我心理分析](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E8%87%AA%E6%88%91%E5%BF%83%E7%90%86%E5%88%86%E6%9E%90.md) | 2024-11-17 |
+| 26 | 提升工作中的价值 | [提升工作中的价值](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%8F%90%E5%8D%87%E5%B7%A5%E4%BD%9C%E4%B8%AD%E7%9A%84%E4%BB%B7%E5%80%BC.md) | 2024-11-17 |
 
