@@ -25,4 +25,4 @@
 | 20 | 赏析 | [赏析](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E8%B5%8F%E6%9E%90.md) | 2024-11-10 |
 | 21 | 保持理性 | [保持理性](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%BF%9D%E6%8C%81%E7%90%86%E6%80%A7.md) | 2024-11-10 |
 | 22 | 持有主动性 | [持有主动性](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%8C%81%E6%9C%89%E4%B8%BB%E5%8A%A8%E6%80%A7.md) | 2024-11-10 |
-| 23 | 成功不是结束 | [成功不是结束](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%8C%81%E6%9C%89%E4%B8%BB%E5%8A%A8%E6%80%A7.md) | 2024-11-17 |
+| 23 | 成功不是结束 | [成功不是结束](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/SuccessIsNotEnd.md) | 2024-11-17 |
