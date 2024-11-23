@@ -30,4 +30,5 @@
 | 25 | 自我心理分析 | [自我心理分析](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E8%87%AA%E6%88%91%E5%BF%83%E7%90%86%E5%88%86%E6%9E%90.md) | 2024-11-17 |
 | 26 | 提升工作中的价值 | [提升工作中的价值](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%8F%90%E5%8D%87%E5%B7%A5%E4%BD%9C%E4%B8%AD%E7%9A%84%E4%BB%B7%E5%80%BC.md) | 2024-11-17 |
 | 27 | 太把自己当回事儿的人 | [太把自己当回事儿的人](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%A4%AA%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%BD%93%E5%9B%9E%E4%BA%8B%E5%84%BF%E7%9A%84%E4%BA%BA.md) | 2024-11-23 |
+| 28 | 职场修炼 | [职场修炼](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E8%81%8C%E5%9C%BA%E4%BF%AE%E7%82%BC.md) | 2024-11-23 |
 
