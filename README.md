@@ -32,3 +32,4 @@
 | 27 | 太把自己当回事儿的人 | [太把自己当回事儿的人](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%A4%AA%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%BD%93%E5%9B%9E%E4%BA%8B%E5%84%BF%E7%9A%84%E4%BA%BA.md) | 2024-11-23 |
 | 28 | 职场修炼 | [职场修炼](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E8%81%8C%E5%9C%BA%E4%BF%AE%E7%82%BC.md) | 2024-11-23 |
 | 29 | 项目亮点 | [项目亮点](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E9%A1%B9%E7%9B%AE%E4%BA%AE%E7%82%B9.md) | 2024-11-24 |
+| 30 | 压力 | [压力](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%8E%8B%E5%8A%9B.md) | 2024-11-25 |
