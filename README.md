@@ -34,4 +34,4 @@
 | 29 | 项目亮点 | [项目亮点](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E9%A1%B9%E7%9B%AE%E4%BA%AE%E7%82%B9.md) | 2024-11-24 |
 | 30 | 压力 | [压力](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%8E%8B%E5%8A%9B.md) | 2024-11-25 |
 | 31 | 休息焦虑 | [休息焦虑](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%BC%91%E6%81%AF%E7%84%A6%E8%99%91.md) | 2024-11-26 |
-| 31 | 高级技术专家 | [高级技术专家](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%BC%91%E6%81%AF%E7%84%A6%E8%99%91.md) | 2024-12-01 |
+| 31 | 高级技术专家 | [高级技术专家](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E9%AB%98%E7%BA%A7%E6%8A%80%E6%9C%AF%E4%B8%93%E5%AE%B6.md) | 2024-12-01 |
