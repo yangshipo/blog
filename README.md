@@ -36,3 +36,4 @@
 | 31 | 休息焦虑 | [休息焦虑](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%BC%91%E6%81%AF%E7%84%A6%E8%99%91.md) | 2024-11-26 |
 | 32 | 高级技术专家 | [高级技术专家](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E9%AB%98%E7%BA%A7%E6%8A%80%E6%9C%AF%E4%B8%93%E5%AE%B6.md) | 2024-12-01 |
 | 33 | 前沿技术 | [前沿技术](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF.md) | 2024-12-01 |
+| 34 | 爱欲、招安、处世之道 | [爱欲、招安、处世之道](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E7%88%B1%E6%AC%B2%E3%80%81%E6%8B%9B%E5%AE%89%E3%80%81%E5%A4%84%E4%B8%96%E4%B9%8B%E9%81%93.md) | 2024-12-01 |
