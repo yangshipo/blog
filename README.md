@@ -41,4 +41,5 @@
 | 36 | 体面与懦弱 | [体面与懦弱](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%BD%93%E9%9D%A2%E4%B8%8E%E6%87%A6%E5%BC%B1.md) | 2024-12-08 |
 | 37 | 带团队 | [带团队](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%B8%A6%E5%9B%A2%E9%98%9F.md) | 2024-12-08 |
 | 38 | 高潜力人才 | [高潜力人才](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E9%AB%98%E6%BD%9C%E5%8A%9B%E4%BA%BA%E6%89%8D.md) | 2024-12-08 |
+| 38 | 拒绝、面子、旧脚本 | [拒绝、面子、旧脚本](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E9%AB%98%E6%BD%9C%E5%8A%9B%E4%BA%BA%E6%89%8D.md) | 2024-12-15 |
 
