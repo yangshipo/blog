@@ -43,4 +43,5 @@
 | 38 | 高潜力人才 | [高潜力人才](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E9%AB%98%E6%BD%9C%E5%8A%9B%E4%BA%BA%E6%89%8D.md) | 2024-12-08 |
 | 39 | 拒绝、面子、旧脚本 | [拒绝、面子、旧脚本](https://github.com/yangshipo/blog/blob/master/%E6%8B%92%E7%BB%9D%E3%80%81%E9%9D%A2%E5%AD%90%E3%80%81%E6%97%A7%E8%84%9A%E6%9C%AC.md) | 2024-12-15 |
 | 40 | 恐惧不是进步的长久动力 | [恐惧不是进步的长久动力](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%81%90%E6%83%A7%E4%B8%8D%E6%98%AF%E8%BF%9B%E6%AD%A5%E7%9A%84%E9%95%BF%E4%B9%85%E5%8A%A8%E5%8A%9B.md) | 2024-12-15 |
+| 41 | 关于造车，雷军近年唯一深度专访 | [关于造车，雷军近年唯一深度专访](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%85%B3%E4%BA%8E%E9%80%A0%E8%BD%A6%EF%BC%8C%E9%9B%B7%E5%86%9B%E8%BF%91%E5%B9%B4%E5%94%AF%E4%B8%80%E6%B7%B1%E5%BA%A6%E4%B8%93%E8%AE%BF.md) | 2024-12-22 |
 
