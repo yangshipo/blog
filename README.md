@@ -48,4 +48,5 @@
 | 42 | 冲突 | [冲突](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%86%B2%E7%AA%81.md) | 2024-12-29 |
 | 43 | 依赖心理 | [依赖心理]() | 2024-12-29 |
 | 44 | 研究问题 | [研究问题](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E7%A0%94%E7%A9%B6%E9%97%AE%E9%A2%98/%E7%A0%94%E7%A9%B6%E9%97%AE%E9%A2%98.md) | 2024-1-1 |
+| 45 | 小步迭代 | [小步迭代](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%B0%8F%E6%AD%A5%E8%BF%AD%E4%BB%A3.md) | 2024-1-2 |
 
