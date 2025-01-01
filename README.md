@@ -47,4 +47,5 @@
 | 41 | 决策焦虑 | [决策焦虑](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%86%B3%E7%AD%96%E7%84%A6%E8%99%91.md) | 2024-12-29 |
 | 42 | 冲突 | [冲突](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%86%B2%E7%AA%81.md) | 2024-12-29 |
 | 43 | 依赖心理 | [依赖心理]() | 2024-12-29 |
+| 44 | 研究问题 | [研究问题](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E7%A0%94%E7%A9%B6%E9%97%AE%E9%A2%98/%E7%A0%94%E7%A9%B6%E9%97%AE%E9%A2%98.md) | 2024-1-1 |
 
