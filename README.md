@@ -47,9 +47,9 @@
 | 41 | 决策焦虑 | [决策焦虑](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%86%B3%E7%AD%96%E7%84%A6%E8%99%91.md) | 2024-12-29 |
 | 42 | 冲突 | [冲突](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%86%B2%E7%AA%81.md) | 2024-12-29 |
 | 43 | 对公司的依赖 | [对公司的依赖](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%AF%B9%E5%85%AC%E5%8F%B8%E7%9A%84%E4%BE%9D%E8%B5%96.md) | 2024-12-29 |
-| 44 | 研究问题-避免陷入无尽思考 | [研究问题-避免陷入无尽思考](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E7%A0%94%E7%A9%B6%E9%97%AE%E9%A2%98/%E7%A0%94%E7%A9%B6%E9%97%AE%E9%A2%98%E7%A0%94%E7%A9%B6%E9%97%AE%E9%A2%98-%E9%81%BF%E5%85%8D%E9%99%B7%E5%85%A5%E6%97%A0%E5%B0%BD%E6%80%9D%E8%80%83.md) | 2024-1-1 |
-| 45 | 小步迭代 | [小步迭代](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%B0%8F%E6%AD%A5%E8%BF%AD%E4%BB%A3.md) | 2024-1-2 |
-| 46 | 以终为始-职业规划(初版) | [以终为始-职业规划](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%BB%A5%E7%BB%88%E4%B8%BA%E5%A7%8B-%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92.md) | 2024-1-2 |
-| 47 | 务实&在谈周期 | [务实&在谈周期](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%8A%A1%E5%AE%9E%26%E5%9C%A8%E8%B0%88%E5%91%A8%E6%9C%9F.md) | 2024-1-5 |
-| 48 | 情感联结（初始化） | [情感联结（初始化）](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%83%85%E6%84%9F%E8%81%94%E7%BB%93.md) | 2024-1-6 |
+| 44 | 研究问题-避免陷入无尽思考 | [研究问题-避免陷入无尽思考](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E7%A0%94%E7%A9%B6%E9%97%AE%E9%A2%98/%E7%A0%94%E7%A9%B6%E9%97%AE%E9%A2%98%E7%A0%94%E7%A9%B6%E9%97%AE%E9%A2%98-%E9%81%BF%E5%85%8D%E9%99%B7%E5%85%A5%E6%97%A0%E5%B0%BD%E6%80%9D%E8%80%83.md) | 2025-01-01 |
+| 45 | 小步迭代 | [小步迭代](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%B0%8F%E6%AD%A5%E8%BF%AD%E4%BB%A3.md) | 2025-01-02 |
+| 46 | 以终为始-职业规划(初版) | [以终为始-职业规划](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%BB%A5%E7%BB%88%E4%B8%BA%E5%A7%8B-%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92.md) | 2025-01-02 |
+| 47 | 务实&在谈周期 | [务实&在谈周期](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%8A%A1%E5%AE%9E%26%E5%9C%A8%E8%B0%88%E5%91%A8%E6%9C%9F.md) | 2025-01-05 |
+| 48 | 情感联结（初始版本） | [情感联结（初始化）](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%83%85%E6%84%9F%E8%81%94%E7%BB%93.md) | 2025-01-06 |
 
