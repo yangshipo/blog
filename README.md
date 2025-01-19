@@ -51,6 +51,7 @@
 | 45 | 小步迭代 | [小步迭代](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%B0%8F%E6%AD%A5%E8%BF%AD%E4%BB%A3.md) | 2025-01-02 |
 | 46 | 以终为始 | [以终为始](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%BB%A5%E7%BB%88%E4%B8%BA%E5%A7%8B.md) | 2025-01-12 |
 | 47 | 以终为始-职业规划(初版) | [以终为始-职业规划](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%BB%A5%E7%BB%88%E4%B8%BA%E5%A7%8B-%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92.md) | 2025-01-02 |
-| 48 | 务实&在谈周期&周期判断 | [务实&在谈周期&周期判断](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%8A%A1%E5%AE%9E%26%E5%9C%A8%E8%B0%88%E5%91%A8%E6%9C%9F.md) | 2025-01-05 |
-| 49 | 情感联结（初始版本） | [情感联结（初始化）](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%83%85%E6%84%9F%E8%81%94%E7%BB%93.md) | 2025-01-06 |
+| 48 | 以终为始：五年、三年、一两年 | [以终为始：五年、三年、一两年](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%BB%A5%E7%BB%88%E4%B8%BA%E5%A7%8B%EF%BC%9A%E4%BA%94%E5%B9%B4%E3%80%81%E4%B8%89%E5%B9%B4%E3%80%81%E4%B8%80%E4%B8%A4%E5%B9%B4.md) | 2025-01-19 |
+| 49 | 务实&在谈周期&周期判断 | [务实&在谈周期&周期判断](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%8A%A1%E5%AE%9E%26%E5%9C%A8%E8%B0%88%E5%91%A8%E6%9C%9F.md) | 2025-01-05 |
+| 50 | 情感联结（初始版本） | [情感联结（初始化）](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%83%85%E6%84%9F%E8%81%94%E7%BB%93.md) | 2025-01-06 |
 
