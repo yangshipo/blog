@@ -55,4 +55,5 @@
 | 49 | 务实&在谈周期&周期判断 | [务实&在谈周期&周期判断](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%8A%A1%E5%AE%9E%26%E5%9C%A8%E8%B0%88%E5%91%A8%E6%9C%9F.md) | 2025-01-05 |
 | 50 | 情感联结（初始版本） | [情感联结（初始化）](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%83%85%E6%84%9F%E8%81%94%E7%BB%93.md) | 2025-01-06 |
 | 51 | 项目管理（规划、优先级管理） | [项目管理（规划、优先级管理）](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86.md) | 2025-02-23 |
+| 52 | 甚念伤吾生 正宜委运去 | [甚念伤吾生 正宜委运去](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E7%94%9A%E5%BF%B5%E4%BC%A4%E5%90%BE%E7%94%9F%E6%AD%A3%E5%AE%9C%E5%A7%94%E8%BF%90%E5%8E%BB.md) | 2025-03-02 |
 
