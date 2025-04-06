@@ -59,4 +59,5 @@
 | 53 | 阶段性目标实现 | [阶段性目标实现](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E7%A0%94%E7%A9%B6%E9%97%AE%E9%A2%98/%E9%98%B6%E6%AE%B5%E6%80%A7%E5%AE%9E%E7%8E%B0%E7%9B%AE%E6%A0%87.md) | 2025-03-02 |
 | 54 | 别把自己太当人 | [别把自己太当人](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%88%AB%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%A4%AA%E5%BD%93%E4%BA%BA.md) | 2025-03-30 |
 | 55 | 事实与观点、需求与欲望、人性 | [事实与观点、需求与欲望、人性](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%BA%8B%E5%AE%9E%E4%B8%8E%E8%A7%82%E7%82%B9%E3%80%81%E9%9C%80%E6%B1%82%E4%B8%8E%E6%AC%B2%E6%9C%9B%E3%80%81%E4%BA%BA%E6%80%A7.md) | 2025-03-30 |
+| 56 | 见人说人话 见鬼说鬼话 | [见人说人话 见鬼说鬼话](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E8%A7%81%E4%BA%BA%E8%AF%B4%E4%BA%BA%E8%AF%9D%E8%A7%81%E9%AC%BC%E8%AF%B4%E9%AC%BC%E8%AF%9D.md) | 2025-04-06 |
 
