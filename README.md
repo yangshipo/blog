@@ -63,4 +63,5 @@
 | 56 | 见人说人话 见鬼说鬼话 | [见人说人话 见鬼说鬼话](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E8%A7%81%E4%BA%BA%E8%AF%B4%E4%BA%BA%E8%AF%9D%E8%A7%81%E9%AC%BC%E8%AF%B4%E9%AC%BC%E8%AF%9D.md) | 2025-04-06 |
 | 57 | 心高气傲、傲慢 | [心高气傲、傲慢](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%BF%83%E9%AB%98%E6%B0%94%E5%82%B2%E3%80%81%E5%82%B2%E6%85%A2.md) | 2025-05-05 |
 | 58 | 对他人的“刻板印象” | [对他人的“刻板印象”](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%AF%B9%E4%BB%96%E4%BA%BA%E7%9A%84%E2%80%9C%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1%E2%80%9D.md) | 2025-05-05 |
+| 59 | 外柔内刚&外儒内法 | [外柔内刚&外儒内法](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%A4%96%E6%9F%94%E5%86%85%E5%88%9A%26%E5%A4%96%E5%84%92%E5%86%85%E6%B3%95.md) | 2025-05-18 |
 
