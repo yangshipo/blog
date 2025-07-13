@@ -71,4 +71,5 @@
 | 64 | 避免冲突&情绪激动--总结 | [避免冲突&情绪激动--总结](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E9%81%BF%E5%85%8D%E5%86%B2%E7%AA%81&%E6%83%85%E7%BB%AA%E6%BF%80%E5%8A%A8--%E6%80%BB%E7%BB%93.md) | 2025-07-07 |
 | 65 | 激动的原因是着急-对话版 | [激动的原因是着急-对话版](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%BF%80%E5%8A%A8%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%98%AF%E7%9D%80%E6%80%A5-%E5%AF%B9%E8%AF%9D%E7%89%88.md) | 2025-07-13 |
 | 66 | 激动的原因是着急-总结版 | [激动的原因是着急-总结版](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%BF%80%E5%8A%A8%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%98%AF%E7%9D%80%E6%80%A5-%E6%80%BB%E7%BB%93%E7%89%88.md) | 2025-07-13 |
+| 67 | 结果导向推理 | [结果导向推理](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E7%BB%93%E6%9E%9C%E5%AF%BC%E5%90%91%E6%8E%A8%E7%90%86.md) | 2025-07-13 |
 
