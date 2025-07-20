@@ -75,4 +75,4 @@
 | 68 | 练手、落子无悔 | [练手、落子无悔](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E7%BB%83%E6%89%8B%E3%80%81%E8%90%BD%E5%AD%90%E6%97%A0%E6%82%94.md) | 2025-07-20 |
 | 69 | 不重复自己 | [不重复自己](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%B8%8D%E9%87%8D%E5%A4%8D%E8%87%AA%E5%B7%B1.md) | 2025-07-20 |
 | 70 | 自我价值 | [自我价值](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E8%87%AA%E6%88%91%E4%BB%B7%E5%80%BC.md) | 2025-07-21 |
-
+| 71 | 一转身就是一辈子 | [一转身就是一辈子](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%B8%80%E8%BD%AC%E8%BA%AB%E5%B0%B1%E6%98%AF%E4%B8%80%E8%BE%88%E5%AD%90.md) | 2025-07-21 |
