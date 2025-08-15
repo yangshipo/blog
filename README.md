@@ -78,3 +78,4 @@
 | 71 | 一转身就是一辈子 | [一转身就是一辈子](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%B8%80%E8%BD%AC%E8%BA%AB%E5%B0%B1%E6%98%AF%E4%B8%80%E8%BE%88%E5%AD%90.md) | 2025-07-21 |
 | 72 | 不要憎恨你的敌人-v1 | [不要憎恨你的敌人-v1](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%B8%8D%E8%A6%81%E6%86%8E%E6%81%A8%E4%BD%A0%E7%9A%84%E6%95%8C%E4%BA%BA-v1.md) | 2025-08-14 |
 | 73 | 不要憎恨你的敌人-v2 | [不要憎恨你的敌人-v2](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%B8%8D%E8%A6%81%E6%86%8E%E6%81%A8%E4%BD%A0%E7%9A%84%E6%95%8C%E4%BA%BA-v2.md) | 2025-08-14 |
+| 74 | 认知错误&逻辑模式 | [认知错误&逻辑模式](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E8%AE%A4%E7%9F%A5%E9%94%99%E8%AF%AF%26%E9%80%BB%E8%BE%91%E6%A8%A1%E5%BC%8F.md) | 2025-08-15 |
