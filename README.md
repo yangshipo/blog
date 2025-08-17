@@ -84,3 +84,4 @@
 | 77 | 信息与认知 | [信息与认知](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%BF%A1%E6%81%AF%E4%B8%8E%E8%AE%A4%E7%9F%A5.md) | 2025-08-17 |
 | 78 | 工作方法-让事情变得重要 | [工作方法-让事情变得重要](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%B7%A5%E4%BD%9C%E6%96%B9%E6%B3%95-%E8%AE%A9%E4%BA%8B%E6%83%85%E5%8F%98%E5%BE%97%E9%87%8D%E8%A6%81.md) | 2025-08-17 |
 | 79 | 男女亲密关系 | [男女亲密关系](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E7%94%B7%E5%A5%B3%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB.md) | 2025-08-17 |
+| 80 | 成功思维论 | [成功思维论](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%88%90%E5%8A%9F%E6%80%9D%E7%BB%B4%E8%AE%BA.md) | 2025-08-17 |
