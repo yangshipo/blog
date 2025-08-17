@@ -81,3 +81,5 @@
 | 74 | 认知错误&逻辑模式 | [认知错误&逻辑模式](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E8%AE%A4%E7%9F%A5%E9%94%99%E8%AF%AF%26%E9%80%BB%E8%BE%91%E6%A8%A1%E5%BC%8F.md) | 2025-08-15 |
 | 75 | 敌友 | [敌友](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%95%8C%E5%8F%8B.md) | 2025-08-17 |
 | 76 | 自我感觉做事效率低 | [自我感觉做事效率低](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E8%87%AA%E6%88%91%E6%84%9F%E8%A7%89%E5%81%9A%E4%BA%8B%E6%95%88%E7%8E%87%E4%BD%8E.md) | 2025-08-17 |
+| 77 | 信息与认知 | [信息与认知](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%BF%A1%E6%81%AF%E4%B8%8E%E8%AE%A4%E7%9F%A5.md) | 2025-08-17 |
+
