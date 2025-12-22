@@ -86,3 +86,4 @@
 | 79 | 男女亲密关系 | [男女亲密关系](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E7%94%B7%E5%A5%B3%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB.md) | 2025-08-17 |
 | 80 | 成功思维论 | [成功思维论](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%88%90%E5%8A%9F%E6%80%9D%E7%BB%B4%E8%AE%BA.md) | 2025-08-17 |
 | 81 | 办公室权利斗争 | [办公室权利斗争](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%8A%9E%E5%85%AC%E5%AE%A4%E6%9D%83%E5%88%A9%E6%96%97%E4%BA%89.md) | 2025-08-26 |
+| 82 | 创新项目PM(执行不到位、方向不确定、技术方案) | [创新项目PM(执行不到位、方向不确定、技术方案)](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%88%9B%E6%96%B0%E9%A1%B9%E7%9B%AEPM(%E6%89%A7%E8%A1%8C%E4%B8%8D%E5%88%B0%E4%BD%8D%E3%80%81%E6%96%B9%E5%90%91%E4%B8%8D%E7%A1%AE%E5%AE%9A%E3%80%81%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88).md) | 2025-12-22 |
