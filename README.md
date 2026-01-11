@@ -91,3 +91,4 @@
 | 84 | 人生容错性非常大 | [人生容错性非常大](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%BA%BA%E7%94%9F%E5%AE%B9%E9%94%99%E6%80%A7%E9%9D%9E%E5%B8%B8%E5%A4%A7.md) | 2026-01-05 |
 | 85 | 收益、风险、长期收益 | [收益、风险、长期收益](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%94%B6%E7%9B%8A%E3%80%81%E9%A3%8E%E9%99%A9%E3%80%81%E9%95%BF%E6%9C%9F%E6%94%B6%E7%9B%8A.md) | 2026-01-05 |
 | 86 | 投资备忘录-Alphabet | [投资备忘录-Alphabet](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%8A%95%E8%B5%84%E5%A4%87%E5%BF%98%E5%BD%95/Alphabet.md) | 2026-01-11 |
+| 87 | 心术不正 | [心术不正](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%BF%83%E6%9C%AF%E4%B8%8D%E6%AD%A3.md) | 2026-01-11 |
