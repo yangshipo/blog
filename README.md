@@ -92,3 +92,4 @@
 | 85 | 收益、风险、长期收益 | [收益、风险、长期收益](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%94%B6%E7%9B%8A%E3%80%81%E9%A3%8E%E9%99%A9%E3%80%81%E9%95%BF%E6%9C%9F%E6%94%B6%E7%9B%8A.md) | 2026-01-05 |
 | 86 | 投资备忘录-Alphabet | [投资备忘录-Alphabet](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%8A%95%E8%B5%84%E5%A4%87%E5%BF%98%E5%BD%95/Alphabet.md) | 2026-01-11 |
 | 87 | 心术不正 | [心术不正](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%BF%83%E6%9C%AF%E4%B8%8D%E6%AD%A3.md) | 2026-01-11 |
+| 88 | 努力但是结果少 | [努力但是结果少](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%8A%AA%E5%8A%9B%E4%BD%86%E6%98%AF%E7%BB%93%E6%9E%9C%E5%B0%91.md) | 2026-01-14 |
