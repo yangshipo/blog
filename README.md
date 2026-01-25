@@ -94,3 +94,5 @@
 | 87 | 心术不正 | [心术不正](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%BF%83%E6%9C%AF%E4%B8%8D%E6%AD%A3.md) | 2026-01-11 |
 | 88 | 努力但是结果少 | [努力但是结果少](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%8A%AA%E5%8A%9B%E4%BD%86%E6%98%AF%E7%BB%93%E6%9E%9C%E5%B0%91.md) | 2026-01-14 |
 | 89 | 慢热型项目-AI出码 | [慢热型项目-AI出码](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%85%A2%E7%83%AD%E5%9E%8B%E9%A1%B9%E7%9B%AE-AI%E5%87%BA%E7%A0%81.md) | 2026-01-14 |
+| 90 | 不依赖任何人 | [不依赖任何人](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%B8%8D%E4%BE%9D%E8%B5%96%E4%BB%BB%E4%BD%95%E4%BA%BA.md) | 2026-01-25 |
+| 91 | 不依赖任何人-纠偏 | [不依赖任何人-纠偏](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%B8%8D%E4%BE%9D%E8%B5%96%E4%BB%BB%E4%BD%95%E4%BA%BA-%E7%BA%A0%E5%81%8F.md) | 2026-01-25 |
