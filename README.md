@@ -96,3 +96,4 @@
 | 89 | 慢热型项目-AI出码 | [慢热型项目-AI出码](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E6%85%A2%E7%83%AD%E5%9E%8B%E9%A1%B9%E7%9B%AE-AI%E5%87%BA%E7%A0%81.md) | 2026-01-14 |
 | 90 | 不依赖任何人 | [不依赖任何人](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%B8%8D%E4%BE%9D%E8%B5%96%E4%BB%BB%E4%BD%95%E4%BA%BA.md) | 2026-01-25 |
 | 91 | 不依赖任何人-纠偏 | [不依赖任何人-纠偏](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%B8%8D%E4%BE%9D%E8%B5%96%E4%BB%BB%E4%BD%95%E4%BA%BA-%E7%BA%A0%E5%81%8F.md) | 2026-01-25 |
+| 92 | 默认的决策方式：用确定性换安全感 | [默认的决策方式：用确定性换安全感](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E9%BB%98%E8%AE%A4%E7%9A%84%E5%86%B3%E7%AD%96%E6%96%B9%E5%BC%8F%EF%BC%9A%E7%94%A8%E7%A1%AE%E5%AE%9A%E6%80%A7%E6%8D%A2%E5%AE%89%E5%85%A8%E6%84%9F.md) | 2026-02-08 |
