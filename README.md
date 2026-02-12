@@ -99,3 +99,4 @@
 | 92 | 默认的决策方式：用确定性换安全感 | [默认的决策方式：用确定性换安全感](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E9%BB%98%E8%AE%A4%E7%9A%84%E5%86%B3%E7%AD%96%E6%96%B9%E5%BC%8F%EF%BC%9A%E7%94%A8%E7%A1%AE%E5%AE%9A%E6%80%A7%E6%8D%A2%E5%AE%89%E5%85%A8%E6%84%9F.md) | 2026-02-08 |
 | 93 | 讨厌一个人 | [讨厌一个人](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E8%AE%A8%E5%8E%8C%E4%B8%80%E4%B8%AA%E4%BA%BA.md) | 2026-02-12 |
 | 94 | 价值、定位 | [价值、定位](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%BB%B7%E5%80%BC%E3%80%81%E5%AE%9A%E4%BD%8D.md) | 2026-02-12 |
+| 95 | 相信个人的感受 | [相信个人的感受](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E7%9B%B8%E4%BF%A1%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%84%9F%E5%8F%97.md) | 2026-02-12 |
