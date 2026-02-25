@@ -103,3 +103,4 @@
 | 096 | 优化“努力” | [优化“努力”](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%BC%98%E5%8C%96%E2%80%9C%E5%8A%AA%E5%8A%9B%E2%80%9D.md) | 2026-02-25 |
 | 097 | 高胜率&高赔率 | [高胜率&高赔率](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E9%AB%98%E8%83%9C%E7%8E%87%26%E9%AB%98%E8%B5%94%E7%8E%87.md) | 2026-02-25 |
 | 098 | 对“宽容”的思考 | [对“宽容”的思考](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%AF%B9%E2%80%9C%E5%AE%BD%E5%AE%B9%E2%80%9D%E7%9A%84%E6%80%9D%E8%80%83.md) | 2026-02-25 |
+| 099 | 个人合作指南| [个人合作指南](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%B8%AA%E4%BA%BA%E5%90%88%E4%BD%9C%E6%8C%87%E5%8D%97.md) | 2026-02-25 |
