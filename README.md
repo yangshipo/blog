@@ -101,3 +101,4 @@
 | 094 | 价值、定位 | [价值、定位](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%BB%B7%E5%80%BC%E3%80%81%E5%AE%9A%E4%BD%8D.md) | 2026-02-12 |
 | 095 | 相信个人的感受 | [相信个人的感受](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E7%9B%B8%E4%BF%A1%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%84%9F%E5%8F%97.md) | 2026-02-12 |
 | 096 | 优化“努力” | [优化“努力”](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%BC%98%E5%8C%96%E2%80%9C%E5%8A%AA%E5%8A%9B%E2%80%9D.md) | 2026-02-25 |
+| 097 | 高胜率&高赔率.md | [高胜率&高赔率.md](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E9%AB%98%E8%83%9C%E7%8E%87%26%E9%AB%98%E8%B5%94%E7%8E%87.md) | 2026-02-25 |
