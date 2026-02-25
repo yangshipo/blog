@@ -100,4 +100,4 @@
 | 93 | 讨厌一个人 | [讨厌一个人](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E8%AE%A8%E5%8E%8C%E4%B8%80%E4%B8%AA%E4%BA%BA.md) | 2026-02-12 |
 | 94 | 价值、定位 | [价值、定位](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%BB%B7%E5%80%BC%E3%80%81%E5%AE%9A%E4%BD%8D.md) | 2026-02-12 |
 | 95 | 相信个人的感受 | [相信个人的感受](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E7%9B%B8%E4%BF%A1%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%84%9F%E5%8F%97.md) | 2026-02-12 |
-| 96 | 努力 | [努力](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%8A%AA%E5%8A%9B.md) | 2026-02-25 |
+| 96 | 优化“努力” | [优化“努力”](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%BC%98%E5%8C%96%E2%80%9C%E5%8A%AA%E5%8A%9B%E2%80%9D.md) | 2026-02-25 |
