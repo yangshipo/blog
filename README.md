@@ -108,5 +108,5 @@
 | 101 | 逆向思考法完整方法论 | [逆向思考法完整方法论](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E9%80%86%E5%90%91%E6%80%9D%E8%80%83%E6%B3%95%E5%AE%8C%E6%95%B4%E6%96%B9%E6%B3%95%E8%AE%BA.md) | 2026-02-25 |
 | 102 | 能为你遮风挡雨也能让你不见天日 | [能为你遮风挡雨也能让你不见天日](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E8%83%BD%E4%B8%BA%E4%BD%A0%E9%81%AE%E9%A3%8E%E6%8C%A1%E9%9B%A8%E4%B9%9F%E8%83%BD%E8%AE%A9%E4%BD%A0%E4%B8%8D%E8%A7%81%E5%A4%A9%E6%97%A5.md) | 2026-03-29 |
 | 103 | FY2026工作方法总结 | [FY2026工作方法总结](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/FY2026%E5%B7%A5%E4%BD%9C%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93.md) | 2026-05-17 |
-| 104 | P6晋升P7的第一个月如何度过 | [P6晋升P7的第一个月如何度过]() | 2026-05-17 |
+| 104 | P6晋升P7的第一个月如何度过 | [P6晋升P7的第一个月如何度过](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/P6%E6%99%8B%E5%8D%87P7%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%9C%88%E5%A6%82%E4%BD%95%E5%BA%A6%E8%BF%87.md) | 2026-05-17 |
 
