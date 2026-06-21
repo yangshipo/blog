@@ -111,6 +111,5 @@
 | 104 | P6晋升P7的第一个月如何度过 | [P6晋升P7的第一个月如何度过](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/P6%E6%99%8B%E5%8D%87P7%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%9C%88%E5%A6%82%E4%BD%95%E5%BA%A6%E8%BF%87.md) | 2026-05-17 |
 | 105 | 错把指标当目标 | [错把指标当目标](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E9%94%99%E6%8A%8A%E6%8C%87%E6%A0%87%E5%BD%93%E7%9B%AE%E6%A0%87.md) | 2026-06-21 |
 | 106 | 反者道之动，弱者道之用 | [反者道之动，弱者道之用](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%8F%8D%E8%80%85%E9%81%93%E4%B9%8B%E5%8A%A8%EF%BC%8C%E5%BC%B1%E8%80%85%E9%81%93%E4%B9%8B%E7%94%A8.md) | 2026-06-21 |
-
 | 107 | 合于道而安、顺势而为 | [合于道而安、顺势而为](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%90%88%E4%BA%8E%E9%81%93%E8%80%8C%E5%AE%89%E3%80%81%E9%A1%BA%E5%8A%BF%E8%80%8C%E4%B8%BA.md) | 2026-06-21 |
 
