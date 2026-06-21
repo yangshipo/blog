@@ -112,4 +112,6 @@
 | 105 | 错把指标当目标 | [错把指标当目标](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E9%94%99%E6%8A%8A%E6%8C%87%E6%A0%87%E5%BD%93%E7%9B%AE%E6%A0%87.md) | 2026-06-21 |
 | 106 | 反者道之动，弱者道之用 | [反者道之动，弱者道之用](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%8F%8D%E8%80%85%E9%81%93%E4%B9%8B%E5%8A%A8%EF%BC%8C%E5%BC%B1%E8%80%85%E9%81%93%E4%B9%8B%E7%94%A8.md) | 2026-06-21 |
 | 107 | 合于道而安、顺势而为 | [合于道而安、顺势而为](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%90%88%E4%BA%8E%E9%81%93%E8%80%8C%E5%AE%89%E3%80%81%E9%A1%BA%E5%8A%BF%E8%80%8C%E4%B8%BA.md) | 2026-06-21 |
+| 108 | 天地不仁、以万物为刍狗 | [天地不仁、以万物为刍狗](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E5%A4%A9%E5%9C%B0%E4%B8%8D%E4%BB%81%E3%80%81%E4%BB%A5%E4%B8%87%E7%89%A9%E4%B8%BA%E5%88%8D%E7%8B%97.md) | 2026-06-21 |
+| 109 | 人法地，地法天，天法道，道法自然 | [人法地，地法天，天法道，道法自然](https://github.com/yangshipo/blog/blob/master/%E9%9A%8F%E6%84%9F/%E4%BA%BA%E6%B3%95%E5%9C%B0%EF%BC%8C%E5%9C%B0%E6%B3%95%E5%A4%A9%EF%BC%8C%E5%A4%A9%E6%B3%95%E9%81%93%EF%BC%8C%E9%81%93%E6%B3%95%E8%87%AA%E7%84%B6.md) | 2026-06-21 |
 
